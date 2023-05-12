@@ -40,9 +40,9 @@ Open the cloned folder in your favorite code editor.
 Run the main.py file present in the root of the repository.
 
 # Your code editor will run the game in a new window.
+```
 
 <br>
-```
 
 ## 4) Code organization;
 <br>
