@@ -151,4 +151,29 @@ O maior desafio foi estruturar o código utilizando programação orientada a ob
 
 - O verdadeiro trabalho em equipe foi o mais importante de todos, pois sem programarmos juntos, o projeto não teria sido bem-sucedido.
 
+ <br>
+ <br>
+
 ## 12) Screenshots of the system functioning to compose the project gallery
+<br>
+
+### <p align="center">Tela de Menu </p>
+<p align="center">
+  <img alt="Banner menu" src="https://res.cloudinary.com/devjoseronaldo/image/upload/v1683518794/jogo-p1/menu-banner_khqzhx.png" width="80%">
+</p>
+
+<br>
+<br>
+
+### <p align="center">Tela do Jogo </p>
+<p align="center">
+  <img alt="Banner game" src="https://res.cloudinary.com/devjoseronaldo/image/upload/v1683518793/jogo-p1/game-banner_ojchiy.png" width="80%">
+</p>
+
+<br>
+<br>
+
+### <p align="center">Tela de Game Over </p>
+<p align="center">
+  <img alt="Banner gameover" src="https://res.cloudinary.com/devjoseronaldo/image/upload/v1683558030/jogo-p1/gameover-banner_k9cv7w.png" width="80%">
+</p>
