@@ -121,6 +121,8 @@ Conditionals and loops were used in various parts of the code to limit certain f
 
 - Working with very short sprints (around 4 days) creates immediate delivery pressure, combined with other academic activities, making it quite challenging to succeed in sprint deliveries.
 
+<br>
+
 ## 9) Qual foi o maior erro cometido durante o projeto? Como vocês lidaram com ele? 
 
 A maior falha foi na organização e distribuição de tarefas, considerando o tempo disponível para desenvolver o projeto e a quantidade de tarefas a serem realizadas pelo grupo. Isso resultou em atrasos no início do projeto. Tentamos distribuir as tarefas de acordo com a disponibilidade de cada membro e nos ajudamos mutuamente quando alguma tarefa ficava pendente.
