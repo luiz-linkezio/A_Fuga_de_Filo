@@ -1,4 +1,4 @@
-# <p align="center">Project: Filo's Escape </p>
+# <p align="center">Project: A fuga de Filó </p>
 
 ## 1) Team Members of `Team 7`:
 <br>
